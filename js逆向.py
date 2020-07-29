@@ -7,8 +7,8 @@ import execjs
 
 session = requests.Session()
 url = 'https://login.sina.com.cn/sso/login.php?client=ssologin.js(v1.4.19)'
-user = '15982317940'
-pwd = 'LONGHUAN'
+user = ''
+pwd = ''
 
 getsu='''
 var sinaSSOEncoder = sinaSSOEncoder || {};
